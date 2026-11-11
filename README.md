@@ -2,15 +2,16 @@
 
 Student at City University, Dhaka.
 
-I like building small tools that save time. Most of what I know came from making things for myself and my friends, and fixing them when they broke.
+My main thing is AI automation. When a task repeats every day, I try to turn it into a workflow or hand it to an AI agent so nobody has to do it by hand again.
 
-Things I can do:
+What I work on:
 
-- Telegram bots in Python
-- Web apps with Laravel
-- Chrome extensions
-- Run my own Linux server (nginx, SSL, mail, backups)
-- Add AI to an app, like a chat assistant that knows your own documents
-- Automate work with n8n (still learning this one)
+- Automation workflows that connect apps, sheets, email and chat
+- AI agents that do real tasks, like replying to customers or updating records
+- Chat assistants that answer from your own documents (RAG)
+- Telegram bots for alerts, reports and daily work
+- Servers to run it all, so it keeps working 24/7
 
-Open to freelance work. Best way to reach me is [LinkedIn](https://www.linkedin.com/in/anikhasan8282).
+Tools: n8n, Python, Laravel, LLM APIs, Telegram Bot API, Linux. Right now I'm going deeper into n8n and AI agents.
+
+Open to freelance work. If you have a task you're tired of doing by hand, message me on [LinkedIn](https://www.linkedin.com/in/anikhasan8282).
